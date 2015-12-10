@@ -28,7 +28,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "concept-network": "^1.2.0",
+    "concept-network": "1.2.0",
     "debug": "0.7.x",
     "random-weighted-choice": "0.1.x",
     "sentence-tokenizer": "*",
